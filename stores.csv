@@ -1,0 +1,19 @@
+﻿store_id,city,region,store_name
+S001,Quezon City,NCR,BayanMart Quezon City
+S002,Manila,NCR,BayanMart Manila
+S003,Makati,NCR,BayanMart Makati
+S004,Pasig,NCR,BayanMart Pasig
+S005,Taguig,NCR,BayanMart Taguig
+S006,Caloocan,NCR,BayanMart Caloocan
+S007,Cebu City,Central Visayas,BayanMart Cebu City
+S008,Mandaue,Central Visayas,BayanMart Mandaue
+S009,Lapu-Lapu City,Central Visayas,BayanMart Lapu-Lapu City
+S010,Davao City,Davao Region,BayanMart Davao City
+S011,Cagayan de Oro,Northern Mindanao,BayanMart Cagayan de Oro
+S012,Iloilo City,Western Visayas,BayanMart Iloilo City
+S013,Bacolod,Western Visayas,BayanMart Bacolod
+S014,Baguio,Cordillera,BayanMart Baguio
+S015,Angeles City,Central Luzon,BayanMart Angeles City
+S016,San Fernando,Central Luzon,BayanMart San Fernando
+S017,Dasmarinas,CALABARZON,BayanMart Dasmarinas
+S018,Antipolo,CALABARZON,BayanMart Antipolo

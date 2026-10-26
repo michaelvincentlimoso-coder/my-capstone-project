@@ -1,0 +1,161 @@
+﻿product_id,category,subcategory,product_name,list_price
+P0001,Grocery,Rice & Grains,Rice & Grains 01,110.0
+P0002,Grocery,Rice & Grains,Rice & Grains 02,170.0
+P0003,Grocery,Rice & Grains,Rice & Grains 03,120.0
+P0004,Grocery,Rice & Grains,Rice & Grains 04,295.0
+P0005,Grocery,Rice & Grains,Rice & Grains 05,325.0
+P0006,Grocery,Rice & Grains,Rice & Grains 06,60.0
+P0007,Grocery,Rice & Grains,Rice & Grains 07,255.0
+P0008,Grocery,Rice & Grains,Rice & Grains 08,230.0
+P0009,Grocery,Rice & Grains,Rice & Grains 09,225.0
+P0010,Grocery,Rice & Grains,Rice & Grains 10,375.0
+P0011,Grocery,Rice & Grains,Rice & Grains 11,190.0
+P0012,Grocery,Rice & Grains,Rice & Grains 12,300.0
+P0013,Grocery,Canned Goods,Canned Goods 01,80.0
+P0014,Grocery,Canned Goods,Canned Goods 02,160.0
+P0015,Grocery,Canned Goods,Canned Goods 03,170.0
+P0016,Grocery,Canned Goods,Canned Goods 04,35.0
+P0017,Grocery,Canned Goods,Canned Goods 05,60.0
+P0018,Grocery,Canned Goods,Canned Goods 06,100.0
+P0019,Grocery,Canned Goods,Canned Goods 07,120.0
+P0020,Grocery,Canned Goods,Canned Goods 08,175.0
+P0021,Grocery,Canned Goods,Canned Goods 09,45.0
+P0022,Grocery,Canned Goods,Canned Goods 10,85.0
+P0023,Grocery,Canned Goods,Canned Goods 11,165.0
+P0024,Grocery,Canned Goods,Canned Goods 12,75.0
+P0025,Grocery,Snacks,Snacks 01,110.0
+P0026,Grocery,Snacks,Snacks 02,65.0
+P0027,Grocery,Snacks,Snacks 03,55.0
+P0028,Grocery,Snacks,Snacks 04,20.0
+P0029,Grocery,Snacks,Snacks 05,120.0
+P0030,Grocery,Snacks,Snacks 06,110.0
+P0031,Grocery,Snacks,Snacks 07,30.0
+P0032,Grocery,Snacks,Snacks 08,55.0
+P0033,Grocery,Snacks,Snacks 09,90.0
+P0034,Grocery,Snacks,Snacks 10,105.0
+P0035,Grocery,Snacks,Snacks 11,135.0
+P0036,Grocery,Snacks,Snacks 12,75.0
+P0037,Grocery,Beverages,Beverages 01,95.0
+P0038,Grocery,Beverages,Beverages 02,90.0
+P0039,Grocery,Beverages,Beverages 03,215.0
+P0040,Grocery,Beverages,Beverages 04,50.0
+P0041,Grocery,Beverages,Beverages 05,60.0
+P0042,Grocery,Beverages,Beverages 06,50.0
+P0043,Grocery,Beverages,Beverages 07,120.0
+P0044,Grocery,Beverages,Beverages 08,70.0
+P0045,Grocery,Beverages,Beverages 09,30.0
+P0046,Grocery,Beverages,Beverages 10,110.0
+P0047,Grocery,Beverages,Beverages 11,100.0
+P0048,Grocery,Beverages,Beverages 12,100.0
+P0049,Personal Care,Skin Care,Skin Care 01,640.0
+P0050,Personal Care,Skin Care,Skin Care 02,385.0
+P0051,Personal Care,Skin Care,Skin Care 03,460.0
+P0052,Personal Care,Skin Care,Skin Care 04,560.0
+P0053,Personal Care,Skin Care,Skin Care 05,205.0
+P0054,Personal Care,Skin Care,Skin Care 06,335.0
+P0055,Personal Care,Skin Care,Skin Care 07,150.0
+P0056,Personal Care,Skin Care,Skin Care 08,170.0
+P0057,Personal Care,Skin Care,Skin Care 09,235.0
+P0058,Personal Care,Skin Care,Skin Care 10,490.0
+P0059,Personal Care,Skin Care,Skin Care 11,550.0
+P0060,Personal Care,Skin Care,Skin Care 12,445.0
+P0061,Personal Care,Hair Care,Hair Care 01,215.0
+P0062,Personal Care,Hair Care,Hair Care 02,105.0
+P0063,Personal Care,Hair Care,Hair Care 03,315.0
+P0064,Personal Care,Hair Care,Hair Care 04,490.0
+P0065,Personal Care,Hair Care,Hair Care 05,190.0
+P0066,Personal Care,Hair Care,Hair Care 06,370.0
+P0067,Personal Care,Hair Care,Hair Care 07,340.0
+P0068,Personal Care,Hair Care,Hair Care 08,100.0
+P0069,Personal Care,Hair Care,Hair Care 09,100.0
+P0070,Personal Care,Hair Care,Hair Care 10,70.0
+P0071,Personal Care,Hair Care,Hair Care 11,290.0
+P0072,Personal Care,Hair Care,Hair Care 12,100.0
+P0073,Personal Care,Hygiene,Hygiene 01,90.0
+P0074,Personal Care,Hygiene,Hygiene 02,230.0
+P0075,Personal Care,Hygiene,Hygiene 03,230.0
+P0076,Personal Care,Hygiene,Hygiene 04,35.0
+P0077,Personal Care,Hygiene,Hygiene 05,145.0
+P0078,Personal Care,Hygiene,Hygiene 06,40.0
+P0079,Personal Care,Hygiene,Hygiene 07,230.0
+P0080,Personal Care,Hygiene,Hygiene 08,240.0
+P0081,Personal Care,Hygiene,Hygiene 09,255.0
+P0082,Personal Care,Hygiene,Hygiene 10,175.0
+P0083,Personal Care,Hygiene,Hygiene 11,260.0
+P0084,Personal Care,Hygiene,Hygiene 12,70.0
+P0085,Household,Cleaning Supplies,Cleaning Supplies 01,175.0
+P0086,Household,Cleaning Supplies,Cleaning Supplies 02,230.0
+P0087,Household,Cleaning Supplies,Cleaning Supplies 03,125.0
+P0088,Household,Cleaning Supplies,Cleaning Supplies 04,210.0
+P0089,Household,Cleaning Supplies,Cleaning Supplies 05,250.0
+P0090,Household,Cleaning Supplies,Cleaning Supplies 06,345.0
+P0091,Household,Cleaning Supplies,Cleaning Supplies 07,230.0
+P0092,Household,Cleaning Supplies,Cleaning Supplies 08,210.0
+P0093,Household,Cleaning Supplies,Cleaning Supplies 09,110.0
+P0094,Household,Cleaning Supplies,Cleaning Supplies 10,305.0
+P0095,Household,Cleaning Supplies,Cleaning Supplies 11,190.0
+P0096,Household,Cleaning Supplies,Cleaning Supplies 12,380.0
+P0097,Household,Laundry,Laundry 01,515.0
+P0098,Household,Laundry,Laundry 02,510.0
+P0099,Household,Laundry,Laundry 03,275.0
+P0100,Household,Laundry,Laundry 04,100.0
+P0101,Household,Laundry,Laundry 05,125.0
+P0102,Household,Laundry,Laundry 06,220.0
+P0103,Household,Laundry,Laundry 07,510.0
+P0104,Household,Laundry,Laundry 08,380.0
+P0105,Household,Laundry,Laundry 09,285.0
+P0106,Household,Laundry,Laundry 10,445.0
+P0107,Household,Laundry,Laundry 11,240.0
+P0108,Household,Laundry,Laundry 12,455.0
+P0109,Household,Kitchen Essentials,Kitchen Essentials 01,185.0
+P0110,Household,Kitchen Essentials,Kitchen Essentials 02,255.0
+P0111,Household,Kitchen Essentials,Kitchen Essentials 03,535.0
+P0112,Household,Kitchen Essentials,Kitchen Essentials 04,230.0
+P0113,Household,Kitchen Essentials,Kitchen Essentials 05,545.0
+P0114,Household,Kitchen Essentials,Kitchen Essentials 06,160.0
+P0115,Household,Kitchen Essentials,Kitchen Essentials 07,510.0
+P0116,Household,Kitchen Essentials,Kitchen Essentials 08,510.0
+P0117,Household,Kitchen Essentials,Kitchen Essentials 09,310.0
+P0118,Household,Kitchen Essentials,Kitchen Essentials 10,395.0
+P0119,Household,Kitchen Essentials,Kitchen Essentials 11,355.0
+P0120,Household,Kitchen Essentials,Kitchen Essentials 12,630.0
+P0121,Electronics,Mobile Accessories,Mobile Accessories 01,625.0
+P0122,Electronics,Mobile Accessories,Mobile Accessories 02,985.0
+P0123,Electronics,Mobile Accessories,Mobile Accessories 03,565.0
+P0124,Electronics,Mobile Accessories,Mobile Accessories 04,1135.0
+P0125,Electronics,Mobile Accessories,Mobile Accessories 05,1045.0
+P0126,Electronics,Mobile Accessories,Mobile Accessories 06,1335.0
+P0127,Electronics,Mobile Accessories,Mobile Accessories 07,750.0
+P0128,Electronics,Mobile Accessories,Mobile Accessories 08,235.0
+P0129,Electronics,Mobile Accessories,Mobile Accessories 09,1450.0
+P0130,Electronics,Mobile Accessories,Mobile Accessories 10,1195.0
+P0131,Electronics,Small Appliances,Small Appliances 01,2745.0
+P0132,Electronics,Small Appliances,Small Appliances 02,2560.0
+P0133,Electronics,Small Appliances,Small Appliances 03,2135.0
+P0134,Electronics,Small Appliances,Small Appliances 04,3660.0
+P0135,Electronics,Small Appliances,Small Appliances 05,3595.0
+P0136,Electronics,Small Appliances,Small Appliances 06,2270.0
+P0137,Electronics,Small Appliances,Small Appliances 07,4055.0
+P0138,Electronics,Small Appliances,Small Appliances 08,2860.0
+P0139,Electronics,Small Appliances,Small Appliances 09,1940.0
+P0140,Electronics,Small Appliances,Small Appliances 10,3000.0
+P0141,Home & Lifestyle,Home Decor,Home Decor 01,845.0
+P0142,Home & Lifestyle,Home Decor,Home Decor 02,770.0
+P0143,Home & Lifestyle,Home Decor,Home Decor 03,360.0
+P0144,Home & Lifestyle,Home Decor,Home Decor 04,290.0
+P0145,Home & Lifestyle,Home Decor,Home Decor 05,850.0
+P0146,Home & Lifestyle,Home Decor,Home Decor 06,860.0
+P0147,Home & Lifestyle,Home Decor,Home Decor 07,970.0
+P0148,Home & Lifestyle,Home Decor,Home Decor 08,515.0
+P0149,Home & Lifestyle,Home Decor,Home Decor 09,880.0
+P0150,Home & Lifestyle,Home Decor,Home Decor 10,965.0
+P0151,Home & Lifestyle,Storage,Storage 01,845.0
+P0152,Home & Lifestyle,Storage,Storage 02,500.0
+P0153,Home & Lifestyle,Storage,Storage 03,575.0
+P0154,Home & Lifestyle,Storage,Storage 04,625.0
+P0155,Home & Lifestyle,Storage,Storage 05,660.0
+P0156,Home & Lifestyle,Storage,Storage 06,1000.0
+P0157,Home & Lifestyle,Storage,Storage 07,990.0
+P0158,Home & Lifestyle,Storage,Storage 08,960.0
+P0159,Home & Lifestyle,Storage,Storage 09,190.0
+P0160,Home & Lifestyle,Storage,Storage 10,630.0
